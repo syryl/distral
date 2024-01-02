@@ -1,2 +1,2 @@
 Hello
-tu ziemia
+nowa tu ziemia
