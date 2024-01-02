@@ -1,2 +1,2 @@
 Hello
-master tu ziemia
+ciekAWE tu ziemia
